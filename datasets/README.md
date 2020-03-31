@@ -9,18 +9,18 @@ This file is a meta-README for all the datasets used in emotion recognition that
 
 **Summary Table**
 
-|Dataset | Author | Year | License | Description | Format | Size | Emotion categories |
-|:------:| :----: | :--: | :-----: | :---------: | :----: | :--: | :---------:|
-|affectivetext|Strapparava & Mihalcea|2007||Classification of emotions in news headlines|SGML/txt|250 headlines|anger, disgust, fear, joy, sadnees, surprise, V|
-|crowdflower_data|CrowdFlower|2016|available to download|Annotated dataset of tweets via crowdsourcing.|csv|40k tweets| anger, enthusiasm, fun, happiness, hate, neutral, sadness, surprise, worry, love, boredom, worry, relief, empty|
-|dailydialog|Li Yanrand et al|2017|available to download|Manually labelled conversations dataset with topics and emotions|text|13k dialogs|anger, disgust, fear, joy, sadness, surprise|
-|emotion-cause|Diman Ghazi&Diana Inkpen&Stan Szpakowicz|2015| research only |Automatically built dataset annotated with emotion and the stimulus using FrameNet’s emotions-directed frame|XML|820 sents + 1594 sents|anger, sad, happy, surprise, fear, disgust|
-|EmoBank|Sven Buechel|2017|redistributable CC-BY 4.0|Large-scale corpus annotated with emotion according to  VAD scheme|text|10k| VAD
-|emotiondata-aman|Saima Aman&Stan Szpakowicz|2007|obtainable upon request|Manually annotated corpus with emotion categories. The agreement on emotion categories was ~0.66. |text|~15k sents|joy, neutral, disgust, sadness, surprise, fear, anger|
-|fb-valence-arousal-annon|Preotiuc Pietro|2016|available to download| description |csv|2.8k posts|VA|
-|grounded_emotions|Liu, V.&Banea, C.&Mihalcea|2017|available to download|They look into wheter the effect of weather, news events, relates to the tweet sentiment |text|2.5k tweets|joy, sadness|
-|isear| Klaus R. Scherer and Harald Wallbott|1990|available to download|reported situations in which emotions were experienced|text (mdb/sav)|3000 docs| joy, fear, anger, sadness, disgust,shame, guilt|
-|tales-emotions|Cecilia Ovesdotter Alm|2005|gplv3| Dataset of manually annotated tales used in a document classification task |text|15k sents| angry, disgusted, fearful, happy, sad, surprised, mood (positive, negative)|
+|Dataset | Author | License | Description | Format | Size | Emotion categories |
+|:------:| :----: | :-----: | :---------: | :----: | :--: | :---------:|
+|affectivetext|Strapparava & Mihalcea|Classification of emotions in news headlines|SGML/txt|250 headlines|anger, disgust, fear, joy, sadnees, surprise, V|
+|crowdflower_data|CrowdFlower|available to download|Annotated dataset of tweets via crowdsourcing.|csv|40k tweets| anger, enthusiasm, fun, happiness, hate, neutral, sadness, surprise, worry, love, boredom, worry, relief, empty|
+|dailydialog|Li Yanrand et al|available to download|Manually labelled conversations dataset with topics and emotions|text|13k dialogs|anger, disgust, fear, joy, sadness, surprise|
+|emotion-cause|Diman Ghazi&Diana Inkpen&Stan Szpakowicz| research only |Automatically built dataset annotated with emotion and the stimulus using FrameNet’s emotions-directed frame|XML|820 sents + 1594 sents|anger, sad, happy, surprise, fear, disgust|
+|EmoBank|Sven Buechel|redistributable CC-BY 4.0|Large-scale corpus annotated with emotion according to  VAD scheme|text|10k| VAD
+|emotiondata-aman|Saima Aman&Stan Szpakowicz|obtainable upon request|Manually annotated corpus with emotion categories. The agreement on emotion categories was ~0.66. |text|~15k sents|joy, neutral, disgust, sadness, surprise, fear, anger|
+|fb-valence-arousal-annon|Preotiuc Pietro|available to download| description |csv|2.8k posts|VA|
+|grounded_emotions|Liu, V.&Banea, C.&Mihalcea|available to download|They look into wheter the effect of weather, news events, relates to the tweet sentiment |text|2.5k tweets|joy, sadness|
+|isear| Klaus R. Scherer and Harald Wallbott|available to download|reported situations in which emotions were experienced|text (mdb/sav)|3000 docs| joy, fear, anger, sadness, disgust,shame, guilt|
+|tales-emotions|Cecilia Ovesdotter Alm|gplv3| Dataset of manually annotated tales used in a document classification task |text|15k sents| angry, disgusted, fearful, happy, sad, surprised, mood (positive, negative)|
 |emoint|
 |electoraltweets|
 
